@@ -1,0 +1,25 @@
+.places-container {
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    }
+
+
+/* @media screen and (max-width: 1180px) {
+    .places-container {
+        margin-left: 50px;
+    }
+    
+}
+
+@media screen and (max-width: 1100px) {
+    .places-container {
+        width: 100%;
+        margin-left: 0;
+    }
+    
+} */
+
