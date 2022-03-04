@@ -19,3 +19,11 @@
         grid-template-columns: 43vw auto ;
     }
 }
+
+@media screen and (max-width: 850px) {
+    .place {
+        grid-template-columns: 44.3vw auto ;
+        gap: 48px 28px;
+        margin-bottom: 73px;
+    }
+}

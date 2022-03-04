@@ -1,4 +1,4 @@
-.webebsite__url-heading {
+.website__url-heading {
 font-style: normal;
 font-weight: normal;
 font-size: 12px;
@@ -7,4 +7,10 @@ letter-spacing: 2px;
 color: #aaa;
 
 
+}
+
+@media screen and (max-width:850px) {
+    .website__url-heading {
+        margin: 0;
+    }
 }
