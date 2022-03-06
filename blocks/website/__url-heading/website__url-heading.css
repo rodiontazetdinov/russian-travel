@@ -5,12 +5,14 @@ font-size: 12px;
 line-height: 170%;
 letter-spacing: 2px;
 color: #aaa;
+margin: 0;
+margin-bottom: 6px;
 
 
 }
 
 @media screen and (max-width:850px) {
     .website__url-heading {
-        margin: 0;
+        margin-bottom: 5px;
     }
 }

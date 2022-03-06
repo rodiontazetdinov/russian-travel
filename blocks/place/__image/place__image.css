@@ -1,5 +1,19 @@
 .place__image {
     width: 100%;
     object-fit: cover;
-    overflow: hidden;
+    /* overflow: hidden; */
+}
+
+@media screen and (max-width: 425px) {
+    .place__image {
+        /* min-width: calc(100% + 32px); */
+        order: 0;
+        min-width: calc(100% + 32px);
+        position: relative;
+        right: 16px;
+        /* height: 68vh; */
+        
+        
+    }
+
 }
