@@ -1,0 +1,7 @@
+.places-item {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(5, minmax(min-content, max-content));
+    row-gap: 32px;
+    grid-auto-flow: row;
+}

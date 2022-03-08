@@ -3,4 +3,5 @@
     background-color: #2A2C2F;
     /* padding: 16px 16px 24px; */
     /* box-sizing: border-box; */
+    overflow: hidden;
 }

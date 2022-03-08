@@ -24,5 +24,14 @@
 @import url(../blocks/photo-grid/__image/photo-grid__image.css);
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);
 @import url(../blocks/places/places.css);
+@import url(../blocks/places/__item/places__item.css);
+@import url(../blocks/places/__list/places__list.css);
+@import url(../blocks/places-item/places-item.css);
+@import url(../blocks/places-item/__image/places-item__image.css);
+@import url(../blocks/places-item/__paragraph/places-item__paragraph.css);
+@import url(../blocks/places-item/__title/places-item__title.css);
+@import url(../blocks/website/website.css);
+@import url(../blocks/website/__url-heading/website__url-heading.css);
+@import url(../blocks/website/__link/website__link.css);
 /* самый низ */
 @import url(../vendor/fonts/InterWeb/inter.css);
