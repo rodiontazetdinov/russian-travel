@@ -23,5 +23,6 @@
 @import url(../blocks/photo-grid/__container/photo-grid__container.css);
 @import url(../blocks/photo-grid/__image/photo-grid__image.css);
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);
+@import url(../blocks/places/places.css);
 /* самый низ */
 @import url(../vendor/fonts/InterWeb/inter.css);

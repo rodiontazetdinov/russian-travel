@@ -4,6 +4,14 @@
     margin: 64px 16px 0;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(284px, 1fr));
-    grid-template-rows: repeat(12, 27.25vh);
+    grid-template-rows: repeat(12, 216px);
     gap: 12px 0;
+
+}
+
+@media screen and (min-width: 425px) {
+    .photo-grid__container {
+        gap: 16px;
+        grid-template-rows: repeat(6, 264px);
+    }
 }
