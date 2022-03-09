@@ -8,3 +8,10 @@
     font-style: normal;
     font-weight: normal;
 }
+
+@media screen and (min-width: 420px) {
+    .lang-menu__lang {
+        font-size: 24px;
+        line-height: 28px;
+    }
+}
