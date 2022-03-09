@@ -9,3 +9,9 @@
     color: #fff;
     margin: 8px auto 0 16px;
 }
+
+@media screen and (min-width: 420px) {
+    .lead__caption {
+        margin: 8px auto 0 24px;
+    }
+}
