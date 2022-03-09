@@ -1,0 +1,5 @@
+.title-subtitle {
+    position: absolute;
+    z-index: 3;
+    top: 3em;
+}

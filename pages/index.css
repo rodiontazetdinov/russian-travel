@@ -33,5 +33,11 @@
 @import url(../blocks/website/website.css);
 @import url(../blocks/website/__url-heading/website__url-heading.css);
 @import url(../blocks/website/__link/website__link.css);
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__link/cover__link.css);
+@import url(../blocks/cover/__image/cover__image.css);
+@import url(../blocks/title-subtitle/title-subtitle.css);
+@import url(../blocks/title-subtitle/__title/title-subtitle__title.css);
+@import url(../blocks/title-subtitle/__subtitle/title-subtitle__subtitle.css);
 /* самый низ */
 @import url(../vendor/fonts/InterWeb/inter.css);
