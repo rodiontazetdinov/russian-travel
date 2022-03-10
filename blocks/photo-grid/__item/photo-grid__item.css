@@ -5,9 +5,3 @@
     padding-bottom: 75%;
     overflow: hidden;
 }
-
-@media screen and (min-width: 420px) {
-    .photo-grid__item {
-        padding-bottom: 75%;
-    }
-}

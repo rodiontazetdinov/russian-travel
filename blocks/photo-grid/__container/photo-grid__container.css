@@ -4,7 +4,6 @@
     margin: 64px 16px 0;
     display: grid;
     grid-template-columns: repeat(1, minmax(min-content, 1fr));
-    /* grid-template-rows: repeat(12, 216px); */
     grid-template-rows: repeat(12, 1fr);
     gap: 12px 0;
 

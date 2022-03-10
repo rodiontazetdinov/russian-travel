@@ -7,6 +7,18 @@
     text-align: center;
     color: #fff;
     margin: 16px 16px 0;
+}
 
+@media screen and (min-width: 400px) {
+    .title-subtitle__subtitle {
+        font-size: 16px;
+        line-height: 18px;
+    }
+}
 
+@media screen and (min-width: 520px) {
+    .title-subtitle__subtitle {
+        font-size: 18px;
+        line-height: 22px;
+    }
 }
