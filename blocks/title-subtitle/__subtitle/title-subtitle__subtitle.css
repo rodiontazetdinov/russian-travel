@@ -22,3 +22,11 @@
         line-height: 22px;
     }
 }
+
+@media screen and (min-width: 620px) {
+    .title-subtitle__subtitle {
+        margin: 29px auto 0;
+        width: 360px;
+        height: 66px;
+    }
+}

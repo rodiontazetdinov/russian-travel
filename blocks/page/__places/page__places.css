@@ -1,0 +1,9 @@
+.page__places {
+
+}
+
+@media screen and (min-width: 600px) {
+    .page__places {
+        margin-bottom: 19px;
+    }    
+}

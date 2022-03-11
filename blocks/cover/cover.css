@@ -23,3 +23,9 @@
   .cover:hover::after {
     background-color: rgb(0 0 0 / 0.5)
   }
+
+  @media screen and (min-width: 720px) {
+      .cover {
+        padding-bottom: 62%;
+      }
+  }

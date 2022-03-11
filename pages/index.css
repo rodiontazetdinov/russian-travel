@@ -46,5 +46,6 @@
 @import url(../blocks/footer/__item/footer__item.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/page/__places/page__places.css);
 /* самый низ */
 @import url(../vendor/fonts/InterWeb/inter.css);
