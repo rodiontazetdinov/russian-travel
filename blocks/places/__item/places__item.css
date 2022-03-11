@@ -2,3 +2,10 @@
     width: 100%;
     margin-bottom: 18px;
 }
+
+@media screen and (min-width: 420px) {
+    .places__item {
+        width: calc(100% - 48px);
+        margin: 0 auto 73px;
+    }
+}

@@ -2,3 +2,11 @@
     width: 100%;
     margin: 0 16px;
 }
+
+@media screen and (min-width: 420px) {
+    .website {
+        margin: 0;
+        align-self: end;
+    }
+    
+}

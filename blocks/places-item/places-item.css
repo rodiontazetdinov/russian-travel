@@ -5,3 +5,12 @@
     row-gap: 32px;
     grid-auto-flow: row;
 }
+
+@media screen and (min-width: 750px) {
+    .places-item {
+        /* grid-auto-flow: column; */
+        grid-template-columns: 44vw 1fr;
+        grid-template-rows: repeat(2, minmax(min-content, max-content));
+        gap: 48px 28px;
+    }
+}

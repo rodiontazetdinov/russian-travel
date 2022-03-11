@@ -7,3 +7,13 @@
     color: #fff;
     margin: 0 16px 0;
 }
+
+@media screen and (min-width: 420px) {
+    .places-item__title {
+        font-size: 42px;
+        line-height: 46px;
+        margin: 0;
+        white-space: pre-line;
+    }
+    
+}

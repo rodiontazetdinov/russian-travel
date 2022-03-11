@@ -11,4 +11,16 @@
 
 .places-item__paragraph:last-of-type {
     margin: 0 16px 0;
+    white-space: pre-line;
+}
+
+@media screen and (min-width: 420px) {
+    .places-item__paragraph {
+        margin: 0 0 25px;
+    }
+    .places-item__paragraph:last-of-type {
+        margin: 0;
+        white-space:normal;
+    
+    }
 }

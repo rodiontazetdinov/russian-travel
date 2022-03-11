@@ -8,3 +8,9 @@
 
 }
 
+@media screen and (min-width: 420px) {
+    .places__list {
+        margin: 88px 0 0;
+    }
+    
+}
