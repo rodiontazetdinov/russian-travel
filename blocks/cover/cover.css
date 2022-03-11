@@ -1,5 +1,4 @@
 .cover {
-    /* width: 100%; */
     width: 100%;
     height: 0;
     padding-bottom: 67%;
@@ -29,3 +28,12 @@
         padding-bottom: 62%;
       }
   }
+
+  @media screen and (min-width: 1280px) {
+    .cover {
+      margin-left: 48px;
+      margin-right: 48px;
+      width: auto;
+      padding-bottom: 57%;
+    }
+}
