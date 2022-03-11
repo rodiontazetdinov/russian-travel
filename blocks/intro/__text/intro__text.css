@@ -13,3 +13,10 @@
         margin: 40px auto 0 24px;
     }
 }
+
+@media screen and (min-width: 1024px) {
+    .intro__text {
+        margin: 40px auto 0 48px;
+        width: 690px;
+    }
+}
