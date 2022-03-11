@@ -24,3 +24,9 @@
     
     }
 }
+
+@media screen and (min-width: 1024px) {
+    .places-item__paragraph {
+        font-size: 18px;
+        line-height: 29px;
+    }

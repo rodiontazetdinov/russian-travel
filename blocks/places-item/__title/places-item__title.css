@@ -15,5 +15,13 @@
         margin: 0;
         white-space: pre-line;
     }
-    
+}
+
+@media screen and (min-width: 1024px) {
+    .places-item__title {
+        font-size: 72px;
+        line-height: 76px;
+        margin: 0;
+        white-space: pre-line;
+    }
 }
