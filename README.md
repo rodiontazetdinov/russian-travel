@@ -8,4 +8,4 @@
 
 
 
-## [Ссылка на проект(<- нажми сюда)](www.w.com):
+## [Ссылка на проект(<- нажми сюда)](https://rodiontazetdinov.github.io/russian-travel/):
