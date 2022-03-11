@@ -1,5 +1,4 @@
 .lead__title {
-    /* padding: 48px 0 0; */
     font-family: Inter, serif, sans-serif;
     font-style: normal;
     font-weight: 900;
@@ -30,7 +29,6 @@
         font-size: 96px;
         line-height: 100px;
         width: 720px;
-        height: 200px;
     }
 }
 

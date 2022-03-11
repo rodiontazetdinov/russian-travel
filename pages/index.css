@@ -3,7 +3,6 @@
 @import url(../blocks/page/__header/page__header.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/logo/logo.css);
-/* @import url(../blocks/header/__logo/header__logo.css); */
 @import url(../blocks/header/__lang-menu/header__lang-menu.css);
 @import url(../blocks/lang-menu/lang-menu.css);
 @import url(../blocks/lang-menu/__lang/lang-menu__lang.css);
@@ -47,5 +46,4 @@
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 @import url(../blocks/page/__places/page__places.css);
-/* самый низ */
 @import url(../vendor/fonts/InterWeb/inter.css);
