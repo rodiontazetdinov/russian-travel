@@ -1,5 +1,4 @@
 .title-subtitle__subtitle {
-    font-family: Inter;
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
@@ -34,7 +33,5 @@
 @media screen and (min-width: 1024px) {
     .title-subtitle__subtitle {
         margin: 35px auto 0;
-        width: 360px;
-        height: 66px;
     }
 }

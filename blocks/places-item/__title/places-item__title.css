@@ -1,5 +1,4 @@
 .places-item__title {
-    font-family: Inter;
     font-style: normal;
     font-weight: 900;
     font-size: 32px;
@@ -21,7 +20,5 @@
     .places-item__title {
         font-size: 72px;
         line-height: 76px;
-        margin: 0;
-        white-space: pre-line;
     }
 }
